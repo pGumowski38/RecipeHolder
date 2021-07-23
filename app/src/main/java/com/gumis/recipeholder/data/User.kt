@@ -1,4 +1,4 @@
-package com.gumis.recipeholder
+package com.gumis.recipeholder.data
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
